@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-labelledby="title desc">
+  <title id="title">Austria newcomer guide illustration</title>
+  <desc id="desc">A clean editorial illustration of Austrian city buildings, mountains, documents and checklist cards.</desc>
+  <rect width="720" height="520" rx="36" fill="#f6f7f9"/>
+  <path d="M0 356h720v128c0 19.9-16.1 36-36 36H36c-19.9 0-36-16.1-36-36V356z" fill="#ffffff"/>
+  <path d="M52 331 196 158l116 138 74-82 135 159 80-91 85 99v48H52z" fill="#dfe8ef"/>
+  <path d="M196 158 98 276h196zM386 214l-74 82h144zM601 282l-80 91h165z" fill="#ffffff"/>
+  <rect x="84" y="292" width="168" height="132" rx="18" fill="#17202a"/>
+  <rect x="107" y="325" width="42" height="99" fill="#ffffff" opacity=".92"/>
+  <rect x="165" y="325" width="64" height="99" fill="#ffffff" opacity=".92"/>
+  <path d="M84 314h168v-22H84z" fill="#c8102e"/>
+  <rect x="306" y="246" width="156" height="178" rx="18" fill="#ffffff" stroke="#dde3ea" stroke-width="4"/>
+  <rect x="330" y="274" width="80" height="12" rx="6" fill="#c8102e"/>
+  <rect x="330" y="309" width="100" height="10" rx="5" fill="#97a3af"/>
+  <rect x="330" y="337" width="84" height="10" rx="5" fill="#97a3af"/>
+  <rect x="330" y="365" width="112" height="10" rx="5" fill="#97a3af"/>
+  <path d="m418 408 18-22 12 10-28 34-22-20 10-11z" fill="#c8102e"/>
+  <rect x="494" y="226" width="142" height="198" rx="18" fill="#ffffff" stroke="#dde3ea" stroke-width="4"/>
+  <circle cx="565" cy="286" r="36" fill="#fff1f3"/>
+  <path d="M565 256v30l23 15" fill="none" stroke="#c8102e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="526" y="344" width="80" height="12" rx="6" fill="#17202a"/>
+  <rect x="526" y="374" width="62" height="10" rx="5" fill="#97a3af"/>
+  <circle cx="96" cy="108" r="28" fill="#c8102e"/>
+  <path d="M111 106c39-24 74-23 107 3 42 33 82 36 121 8 35-25 74-22 117 9 41 30 83 31 126 4" fill="none" stroke="#c8102e" stroke-width="10" stroke-linecap="round" opacity=".25"/>
+</svg>
